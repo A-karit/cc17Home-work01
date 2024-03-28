@@ -1,0 +1,33 @@
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display:flex;
+  gap: 8px;
+}
+.table-user {
+  background-color: rgb(247, 247, 240);
+  border: 1px solid silver;
+  border-collapse: collapse;
+  width: 500px;
+}
+.table-user td, .table-user th {
+  border: 1px solid rgb(176, 176, 176);
+  padding: 4px;
+  text-align: center;
+}
+.head-table, .head-table2 {
+  background-color: rgb(196, 252, 252);
+}
+fieldset {
+  border: 1.5px solid black;
+  width: 500px;
+  box-shadow: 0 0 3px;
+}
+button {
+  box-shadow: 0 0 1.5px;
+}
+input {
+  box-shadow: 0 0 1.5px;
+}
+
